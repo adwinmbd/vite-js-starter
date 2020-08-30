@@ -5,7 +5,7 @@
 - Developer environment setup with [Vite](https://github.com/vitejs/vite)
 - Linting with [Prettier](https://prettier.io/)
 
-## Clone repo in a directory
+## Clone repo in an empty directory
 
 ```
 npx degit adwinmbd/vitejs-starter
