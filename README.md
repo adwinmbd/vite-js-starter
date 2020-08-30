@@ -42,10 +42,3 @@ npm run lint
 ```
 npm run format
 ```
-
-### Credits
-
-Special thanks to the following people for sharing their knowledge on the topic.
-
-- [Ewan Morrison](https://github.com/ewan-m/vanilla-js-spa)
-- [Praveen Kumar Saini](https://github.com/praveen-me/simple-vanila-router)
